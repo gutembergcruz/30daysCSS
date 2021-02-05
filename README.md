@@ -14,8 +14,8 @@ Improve my CSS skills into practice and by making these goals public I can furth
 
 # Projects / Projetos 💻
 - Day 01 - Zoom in on hover ✅
-- Day 02 - (coming) ⌚
-- Day 03 - (coming) ⌚
+- Day 02 - Blur off on hover ✅
+- Day 03 - Sprite Sheet Animation ✅
 - Day 04 - (coming) ⌚
 - Day 05 - (coming) ⌚
 - Day 06 - (coming) ⌚
