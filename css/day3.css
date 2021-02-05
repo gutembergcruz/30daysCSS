@@ -1,0 +1,43 @@
+.box{height: 350px;}
+.sprite {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 198px;
+    height: 210px;
+    background-image: url("../img/day3.png");
+    
+    -webkit-animation: run .8s steps(8) infinite;
+       -moz-animation: run .8s steps(8) infinite;
+        -ms-animation: run .8s steps(8) infinite;
+         -o-animation: run .8s steps(8) infinite;
+            animation: run .8s steps(8) infinite;
+}
+
+@-webkit-keyframes run {
+   from { background-position:    0px; }
+     to { background-position: -1584px; }
+}
+
+@-moz-keyframes run {
+   from { background-position:    0px; }
+     to { background-position: -1584px; }
+}
+
+@-ms-keyframes run {
+   from { background-position:    0px; }
+     to { background-position: -1584px; }
+}
+
+@-o-keyframes run {
+   from { background-position:    0px; }
+     to { background-position: -1584px; }
+}
+
+@keyframes run {
+   from { background-position:    0px; }
+     to { background-position: -1584px; }
+}
