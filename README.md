@@ -13,9 +13,9 @@ Improve my CSS skills into practice and by making these goals public I can furth
 - The project must be completed by 11:59 pm / O projeto deve ser concluído até 23:59.
 
 # Projects / Projetos 💻
-- Day 01 - Zoom in on hover ✅
-- Day 02 - Blur off on hover ✅
-- Day 03 - Sprite Sheet Animation ✅
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762809316190806016/" title="See">Day 01 - Zoom in on hover ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763110240260034562/" title="See">Day 02 - Blur off on hover ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763444528029478913/" title="See">Day 03 - Sprite Sheet Animation ✅  </a> <br>
 - Day 04 - (coming) ⌚
 - Day 05 - (coming) ⌚
 - Day 06 - (coming) ⌚
