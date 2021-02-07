@@ -1,0 +1,6 @@
+.box-img{background-image:url(../img/day-5.jpg);background-size:100%;background-repeat:no-repeat;width:500px;height:300px;background-position:center center;transition:.5s;filter:grayscale(
+100%
+)}
+.box-img:hover{filter:grayscale(
+0
+)}
