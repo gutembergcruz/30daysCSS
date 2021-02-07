@@ -16,7 +16,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762809316190806016/" title="See">Day 01 - Zoom in on hover ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763110240260034562/" title="See">Day 02 - Blur off on hover ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763444528029478913/" title="See">Day 03 - Sprite Sheet Animation ✅  </a> <br>
-- Day 04 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6763848732053164032/" title="See">Day 04 - Loading animation ✅  </a> <br>
 - Day 05 - (coming) ⌚
 - Day 06 - (coming) ⌚
 - Day 07 - (coming) ⌚
