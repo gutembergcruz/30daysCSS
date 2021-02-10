@@ -1,0 +1,17 @@
+.card{margin: 30px 0%;border: 3px solid #000; border-radius: 15px; padding: 25px; width: 300px; height: 200px; position: relative;}
+.card .image{width: 100px;
+    height: 100px;
+    position: absolute;
+    background-image: url(../img/07-01.svg);
+    top: -65px;
+    left: 100px;
+background-size: 100%; transition: 0.3s;
+}
+.card p{font-weight: 700; font-family: sans-serif; text-align: center; width: 100%; font-size: 25px; color: #293241;}
+.card .buttons{display: flex; align-items: center; justify-content: space-between;}
+.card .buttons button:nth-of-type(1){width: 110px; height: 40px; background-color: #C47AC0; border: none; border-radius: 75px; color: #fff; cursor: pointer; font-family: sans-serif; font-size: 16px;}
+.card .buttons button:nth-of-type(1):hover{background-color: #b457b0;}
+.card .buttons button:nth-of-type(1):hover ~ .image{background-image: url(../img/07-03.svg);}
+.card .buttons button:nth-of-type(2){width: 110px; height: 40px; background-color: transparent; border: 2px solid #C47AC0; border-radius: 75px; color: #C47AC0; cursor: pointer; font-family: sans-serif; font-size: 16px;}
+.card .buttons button:nth-of-type(2):hover{background-color: #ce79ca; color: #fff;}
+.card .buttons button:nth-of-type(2):hover ~ .image{background-image: url(../img/07-02.svg);}
