@@ -1,0 +1,52 @@
+.box {
+    background-image: url(../img/day-8-2.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+.card {
+    height: 350px;
+    width: 320px;
+    background-color: rgba(255, 255, 255, 0.09);
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-radius: 15px;
+    -webkit-box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.2);
+    box-shadow: 20px 20px 22px rgba(0, 0, 0, 0.2);
+}
+
+.card .image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    border: 5px solid rgba(255, 255, 255, 0.1);
+    margin-top: 25px;
+}
+
+.card .image img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.card .info {}
+
+.card .info h1 {color: #d4d4d4; font-family: sans-serif; margin-bottom: 5px;}
+
+.card .info h2 {color: #c0c0c0;margin-top: 5px; font-family: sans-serif; font-size: 16px;}
+
+.card .info button {width: 70%; margin: 0 auto; height: 40px; display: block; border-radius: 75px; border: none; background-color: rgba(255,255,255,0.2); color: #c0c0c0; font-size: 16px; margin-top: 25px; transition: 0.4s; cursor: pointer;}
+
+.card .info button:hover {background-color: rgba(255,255,255,0.28);}
+
+.card .foot {background-color: rgba(255,255,255,0.19); position: absolute; width: 320px; bottom: 0; border-radius: 0px 0px 15px 15px; display: flex; align-items: center; justify-content: space-between;}
+
+.card .foot p {font-family: sans-serif;color: #ffffff;text-align: center;}
+
+.card .foot p span {color:rgba(255,255,255,0.7);}
+
+.card .foot div {width: 50%; display: flex; align-items: center; justify-content: center;}
+
+.card .foot div:nth-of-type(1) {border-right: 1px solid rgba(0,0,0,0.06);}
