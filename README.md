@@ -19,7 +19,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6763848732053164032/" title="See">Day 04 - Loading animation ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6764219198165041152/" title="See">Day 05 - Grayscale ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6764539995656134656/" title="See">Day 06 - Don't look at my password ✅  </a> <br>
-- Day 07 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765076809311690752/" title="See">Day 07 - Are you sure? ✅  </a> <br>
 - Day 08 - (coming) ⌚
 - Day 09 - (coming) ⌚
 - Day 10 - (coming) ⌚
