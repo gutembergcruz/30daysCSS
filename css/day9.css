@@ -1,0 +1,23 @@
+.box {
+    background: linear-gradient( -45deg, #41E975, #2999ad, #574bcd);
+    background-size: 400% 400%;
+    animation: fundoGradiente 10s ease infinite;
+}
+
+@keyframes fundoGradiente {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.box{display: flex; align-items: center; justify-content: center;}
+.box .card {width: 500px; height: 300px; display: flex; align-items: center; justify-content: center; flex-direction: column;}
+
+.box .card h1 {color: #fff; font-family: sans-serif;}
+
+.box .card p { text-align: center; font-family: sans-serif; font-weight: 700; color: rgb(192, 192, 192);}
