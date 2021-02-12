@@ -13,16 +13,16 @@ Improve my CSS skills into practice and by making these goals public I can furth
 - The project must be completed by 11:59 pm / O projeto deve ser concluído até 23:59.
 
 # Projects / Projetos 💻
-<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762809316190806016/" title="See">Day 01 - Zoom in on hover ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763110240260034562/" title="See">Day 02 - Blur off on hover ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763444528029478913/" title="See">Day 03 - Sprite Sheet Animation ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6763848732053164032/" title="See">Day 04 - Loading animation ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6764219198165041152/" title="See">Day 05 - Grayscale ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6764539995656134656/" title="See">Day 06 - Don't look at my password ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6762809316190806016/" title="See">Day 01 - Zoom in on hover. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763110240260034562/" title="See">Day 02 - Blur off on hover. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6763444528029478913/" title="See">Day 03 - Sprite Sheet Animation. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6763848732053164032/" title="See">Day 04 - Loading animation. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6764219198165041152/" title="See">Day 05 - Grayscale. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6764539995656134656/" title="See">Day 06 - Don't look at my password. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765076809311690752/" title="See">Day 07 - Are you sure? ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6765265636076650496/" title="See">Day 08 - GlassMorphism ✅  </a> <br>
-<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765686765543067648/" title="See">Day 09 - Animated Gradient Background ✅  </a> <br>
-- Day 10 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6765265636076650496/" title="See">Day 08 - GlassMorphism. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765686765543067648/" title="See">Day 09 - Animated Gradient Background. ✅  </a> <br>
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6766009205527781376/" title="See">Day 10 - News Card. ✅  </a> <br>
 - Day 11 - (coming) ⌚
 - Day 12 - (coming) ⌚
 - Day 13 - (coming) ⌚
