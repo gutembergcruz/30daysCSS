@@ -23,7 +23,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6765265636076650496/" title="See">Day 08 - GlassMorphism. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765686765543067648/" title="See">Day 09 - Animated Gradient Background. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6766009205527781376/" title="See">Day 10 - News Card. ✅  </a> <br>
-- Day 11 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6766568505862082560/" title="See">Day 11 - Text mask background. ✅  </a> <br>
 - Day 12 - (coming) ⌚
 - Day 13 - (coming) ⌚
 - Day 14 - (coming) ⌚
