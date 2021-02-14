@@ -1,13 +1,2 @@
-.titulo{
-font-weight: 800;
-  color: transparent;
-  font-size:120px;
-  background: url('../img/day-11.jpg') repeat;
-  background-position: 40% 50%;
-  -webkit-background-clip: text;
-  position:relative;
-  text-align:center;
-  line-height:90px;
-  letter-spacing: -8px;
-font-family: 'Bebas Neue';
-}
+.titulo{font-weight:800;color:transparent;font-size:120px;background:url(../img/day-11.jpg) repeat;background-position:center center;-webkit-background-clip:text;position:relative;text-align:center;font-family:'Bebas Neue'; background-size: 100%;}
+.subtitulo{font-weight:400;color:transparent;font-size:30px;background:url(../img/day-11.jpg) repeat;background-position:center center;-webkit-background-clip:text;position:relative;text-align:center;font-family:'Bebas Neue'; background-size: 2850px;}
