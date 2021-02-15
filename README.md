@@ -24,8 +24,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6765686765543067648/" title="See">Day 09 - Animated Gradient Background. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6766009205527781376/" title="See">Day 10 - News Card. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6766568505862082560/" title="See">Day 11 - Text mask background. ✅  </a> <br>
-- Day 12 - (coming) ⌚
-- Day 13 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6767108345053671424/" title="See">Day 13 - Blur everything outside the frame. ✅  </a> <br>
 - Day 14 - (coming) ⌚
 - Day 15 - (coming) ⌚
 - Day 16 - (coming) ⌚
@@ -43,3 +42,5 @@ Improve my CSS skills into practice and by making these goals public I can furth
 - Day 28 - (coming) ⌚
 - Day 29 - (coming) ⌚
 - Day 30 - (coming) ⌚
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6766568505862082560/" title="See">Day 12 - Snake Border on hover. ✅  </a> <br>
