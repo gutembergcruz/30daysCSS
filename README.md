@@ -27,7 +27,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6766568505862082560/" title="See">Day 12 - Snake Border on hover. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6767108345053671424/" title="See">Day 13 - Blur everything outside the frame. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6767299964554018816/" title="See">Day 14 - Sticky Section Scrolling. ✅  </a> <br>
-- Day 15 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6767659260470972416/" title="See">Day 15 - Text Animation SVG. ✅  </a> <br>
 - Day 16 - (coming) ⌚
 - Day 17 - (coming) ⌚
 - Day 18 - (coming) ⌚
