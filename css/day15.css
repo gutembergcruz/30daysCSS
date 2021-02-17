@@ -1,0 +1,46 @@
+.box{background: url(../img/DAY-15.jpg); background-size: cover; background-position: center !important;}
+svg {
+    display: block;
+    font: 10.5em 'Montserrat';
+    width: 960px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.linhas {
+    fill: none;
+    stroke: white;
+    stroke-dasharray: 6% 29%;
+    stroke-width: 5px;
+    stroke-dashoffset: 0%;
+    animation: stroke-offset 5.5s infinite linear;
+}
+
+.linhas:nth-child(1){
+	stroke: #ffffff;
+	animation-delay: -1;
+}
+
+.linhas:nth-child(2){
+	stroke: #da8396;
+	animation-delay: -2s;
+}
+
+.linhas:nth-child(3){
+	stroke: #e9139e;
+	animation-delay: -3s;
+}
+
+.linhas:nth-child(4){
+	stroke: #210a8a;
+	animation-delay: -4s;
+}
+
+.linhas:nth-child(5){
+	stroke: #ff5f03;
+	animation-delay: -5s;
+}
+
+@keyframes stroke-offset{
+	100% {stroke-dashoffset: -35%;}
+}
