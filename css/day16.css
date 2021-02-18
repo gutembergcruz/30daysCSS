@@ -1,0 +1,30 @@
+.box{background-color: rgb(230, 157, 89) !important;}
+.card{position: relative; width: 800px; height: 400px; background-color: rgb(230, 157, 89);}
+.card .img00{width: 500px; position: absolute; top: 50px; left: 150px;}
+.card .img01{
+    width: 273px;
+    position: absolute;
+    top: 62px;
+    left: 345px;
+}
+.card .img011{
+    width: 273px;
+    position: absolute;
+    top: 62px;
+    left: 345px; transition: 0.5s;
+}
+.card .img02{
+    width: 246px;
+    position: absolute;
+    top: 82px;
+    left: 357px; transition: 1s;
+}
+.card .img03{
+    width: 235px;
+    position: absolute;
+    top: 99px;
+    left: 360px; transition: 1.5s;
+}
+.card:hover .img011{left: 200px;}
+.card:hover .img02{left: 150px;}
+.card:hover .img03{left: 100px;}
