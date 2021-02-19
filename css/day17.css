@@ -1,0 +1,4 @@
+.box{display: block !important;}
+.box article{width: 23%; margin: 0 1%; float: left;}
+.box article .card img{width: 100%; border-radius: 15px;}
+.box .card{border-radius: 15px; margin-bottom: 20px;}
