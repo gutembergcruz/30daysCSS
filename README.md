@@ -30,7 +30,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6767659260470972416/" title="See">Day 15 - Text Animation SVG. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6768158581318594560/" title="See">Day 16 - CSS layerd Image Hover Effects with Mockup. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6768531842363637760/" title="See">Day 17 - Pinterest columns. ✅  </a> <br>
-- Day 18 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6768988861356933120/" title="See">Day 18 - Bubles animate efects. ✅  </a> <br>
 - Day 19 - (coming) ⌚
 - Day 20 - (coming) ⌚
 - Day 21 - (coming) ⌚
