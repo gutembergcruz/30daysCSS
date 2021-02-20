@@ -1,0 +1,155 @@
+.box {
+  position: absolute;
+  width: 100%;
+  height: 700px;
+  background: url(https://pm1.narvii.com/6322/0b035985ec272ca55f27fa583f8b4f3065a947ea_hq.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+overflow: hidden;
+}
+.box .flu {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.box .flu2 {
+  transform: scale(2) rotateZ(180deg);
+  filter: blur(2px);
+}
+.box .flu3 {
+  transform: scale(.8) rotateY(180deg);
+  filter: blur(4px);
+}
+.flu div {
+  position: absolute;
+  display: block;
+}
+.flu div:nth-child(1){
+  left: 20%;
+  animation: animate 15s linear infinite;
+  animation-delay: -7s;
+}
+.flu div:nth-child(2){
+  left: 50%;
+  animation: animate 20s linear infinite;
+  animation-delay: -5s;
+}
+.flu div:nth-child(3){
+  left: 70%;
+  animation: animate 25s linear infinite;
+  animation-delay: 0s;
+}
+.flu div:nth-child(4){
+  left: 0%;
+  animation: animate 15s linear infinite;
+  animation-delay: -5s;
+}
+.flu div:nth-child(5){
+  left: 85%;
+  animation: animate 18s linear infinite;
+  animation-delay: -10s;
+}
+.flu div:nth-child(6){
+  left: 0%;
+  animation: animate 12s linear infinite;
+}
+.flu div:nth-child(7){
+  left: 15%;
+  animation: animate 14s linear infinite;
+}
+.flu div:nth-child(8){
+  left: 60%;
+  animation: animate 15s linear infinite;
+}
+.flu div:nth-child(9){
+  left: 20%;
+  animation: animate 8s linear infinite;
+  animation-delay: -7s;
+}
+.flu div:nth-child(10){
+  left: 50%;
+  animation: animate 6s linear infinite;
+  animation-delay: -5s;
+}
+.flu div:nth-child(11){
+  left: 70%;
+  animation: animate 8s linear infinite;
+  animation-delay: 0s;
+}
+.flu div:nth-child(12){
+  left: 0%;
+  animation: animate 6s linear infinite;
+  animation-delay: -5s;
+}
+.flu div:nth-child(13){
+  left: 85%;
+  animation: animate 8s linear infinite;
+  animation-delay: -5s;
+}
+.flu div:nth-child(14){
+  left: 0%;
+  animation: animate 6s linear infinite;
+}
+.flu div:nth-child(15){
+  left: 15%;
+  animation: animate 8s linear infinite;
+}
+.flu div:nth-child(16){
+  left: 60%;
+  animation: animate 6s linear infinite;
+}
+.flu div img {
+  width: 100px;
+}
+.flu div:nth-of-type(1) img {
+  width: 200px;
+}
+.flu div:nth-of-type(2) img {
+  width: 150px;
+}
+.flu div:nth-of-type(5) img {
+  width: 200px;
+}
+.flu div:nth-of-type(9) img {
+  width: 150px;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 0;
+    top: -10%;
+    transform: translateX(20px) rotate(0);
+  }
+  10% {
+    opacity: 1;
+  }
+  20% {
+    transform: translateX(-20px) rotate(45deg);
+  }
+  40% {
+    transform: translateX(-20px) rotate(90deg);
+  }
+  60% {
+    transform: translateX(20px) rotate(135deg);
+  }
+  80% {
+    transform: translateX(-20px) rotate(180deg);
+  }
+  100% {
+    top: 100%;
+    transform: translateX(20px) rotate(225deg);
+  }
+}
+@keyframes animate3d {
+    0%{
+transform: rotate3d(0, 1, 0, 0deg);
+    }
+    50%{
+transform: rotate3d(0, 1, 0, 180deg);
+    }
+    100%{
+transform: rotate3d(0, 1, 0, 0deg);s
+    }
+}
