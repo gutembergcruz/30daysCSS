@@ -1,0 +1,99 @@
+.box{display: block !important;}
+
+.split
+{
+  position: relative;
+  height: 500px;
+  display: flex;
+  background: #000;
+}
+
+.split .screen
+{
+  position: relative;
+  flex-grow: 2;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  overflow: hidden;
+  transition: 1s;
+}
+
+.split:hover .screen
+{
+  opacity: 0.1;
+}
+.split .screen:nth-of-type(1):hover
+{
+  flex-grow: 5;
+  opacity: 1;
+background-position: center top;
+}
+.split .screen:nth-of-type(2):hover
+{
+  flex-grow: 5;
+  opacity: 1;
+  background-position: center center;
+}
+.split .screen:nth-of-type(3):hover
+{
+  flex-grow: 5;
+  opacity: 1;
+background-position: center top;
+}
+.split .screen:nth-child(1)
+{
+  background: url('https://i.pinimg.com/originals/d0/0d/3a/d00d3a700bf9e8bcee92f6b8bddb31a4.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center ;
+}
+.split .screen:nth-child(2)
+{
+  background: url('https://64.media.tumblr.com/93d2fc661ce75a04d902e549b43addcb/tumblr_oq9o8m0Wdo1rwuy3uo1_1280.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+.split .screen:nth-child(3)
+{
+  background: url('https://steamuserimages-a.akamaihd.net/ugc/789741591344162038/C33623F6D14FC7D1A66D6120B8845E5612CA2922/');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+.split .screen .content
+{
+  position: absolute;
+  width: 400px;
+  height: auto;
+  background: #fff;
+  padding: 40px;
+  box-sizing: border-box;
+  transform: translateX(100%);
+  transition: 0.5s;
+  text-align: justify;
+}
+.split .screen:hover .content
+{
+  transform: translateX(0);
+  transition-delay: 1s;
+}
+
+.split .screen .content h2
+{
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-size: 30px;
+  color: #1c5adf;
+}
+
+.split .screen .content p
+{
+  margin: 0;
+  paddin: 0;
+  font-family: sans-serif;
+}
