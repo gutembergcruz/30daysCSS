@@ -32,7 +32,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6768531842363637760/" title="See">Day 17 - Pinterest columns. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6768988861356933120/" title="See">Day 18 - Bubles animate efects. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6769448237364502528/" title="See">Day 19 - Card hover effects my favorite indie games. ✅  </a> <br>
-- Day 20 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6769785056639664128/" title="See">Day 20 - Avengers card hover efects. ✅  </a> <br>
 - Day 21 - (coming) ⌚
 - Day 22 - (coming) ⌚
 - Day 23 - (coming) ⌚
