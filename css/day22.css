@@ -1,0 +1,177 @@
+.box>div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 90%;
+}
+
+.card {
+    background: #000;
+    background: -moz-linear-gradient(-45deg, #000 0%, #000 25%, #ccc 50%, #666 75%, rgb(34, 34, 34) 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #000 0%, #000 25%, #ccc 50%, rgb(66, 66, 66) 75%, #444 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #000 0%, #000 25%, #ccc 50%, #666 75%, #444 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    display: flex;
+    width: 300px;
+    margin: 0 10px;
+    height: 500px;
+    max-width: 100vw;
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.card__img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000 url(https://i.pinimg.com/originals/2e/d7/11/2ed7110abee91289eae706aa4c08136c.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.5;
+    mix-blend-mode: screen;
+}
+
+.card__title {
+    position: relative;
+    z-index: 10;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+
+.card:hover {
+    background-position: 100% 100%;
+}
+
+.card:hover .card__title {
+    color: #000;
+}
+
+.card:hover__title {
+    text-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+.card2 {
+    background: #000;
+    background: -moz-linear-gradient(-45deg, #000 0%, #000 25%, #a10100 50%, #da1f05 75%, #fe650d 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #000 0%, #000 25%, #a10100 50%, #da1f05 75%, #fe650d 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #000 0%, #000 25%, #a10100 50%, #da1f05 75%, #fe650d 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    display: flex;
+    width: 300px;
+    margin: 0 10px;
+    height: 500px;
+    max-width: 100vw;
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.card2__img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000 url(https://i.pinimg.com/originals/e6/c3/81/e6c381bf43492770426f2b92adbaaf59.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.5;
+    mix-blend-mode: screen;
+}
+
+.card2__title {
+    position: relative;
+    z-index: 10;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+
+.card2:hover .card2__title {
+    color: #000;
+}
+
+.card2:hover {
+    background-position: 100% 100%;
+}
+
+.card2:hover__title {
+    text-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
+
+.card1 {
+    background: #000;
+    background: -moz-linear-gradient(-45deg, #000 0%, #000 25%, #3f7eb3 50%, #6ba7cc 75%, #aedbf0 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #000 0%, #000 25%, #3f7eb3 50%, #6ba7cc 75%, #aedbf0 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #000 0%, #000 25%, #3f7eb3 50%, #6ba7cc 75%, #aedbf0 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    display: flex;
+    width: 300px;
+    margin: 0 10px;
+    height: 500px;
+    max-width: 100vw;
+    max-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: relative;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+
+.card1__img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: #000 url(https://i.pinimg.com/originals/ae/74/62/ae7462309cf4972724bb0fc0cd2dbbde.jpg) no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.5;
+    mix-blend-mode: screen;
+}
+
+.card1__title {
+    position: relative;
+    z-index: 10;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #fff;
+}
+
+.card1:hover .card1__title {
+    color: #000;
+}
+
+.card1:hover {
+    background-position: 100% 100%;
+}
+
+.card1:hover__title {
+    text-shadow: 0 0 20px rgba(0, 0, 0, 1);
+}
