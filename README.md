@@ -35,7 +35,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6769785056639664128/" title="See">Day 20 - Avengers card hover efects. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6770009558640300032/" title="See">Day 21 - Social media hover effect. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6770451493544955904/" title="See">Day 22 - Cards Mortal Kombat hover effect. ✅  </a> <br>
-- Day 23 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6770700840811470848/" title="See">Day 23 - Anime slide acordion. ✅  </a> <br>
 - Day 24 - (coming) ⌚
 - Day 25 - (coming) ⌚
 - Day 26 - (coming) ⌚
