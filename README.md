@@ -38,7 +38,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6770700840811470848/" title="See">Day 23 - Anime slide acordion. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771109681374003200/" title="See">Day 24 - Glassmorphism Little Nightmare II. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771631989524086784/" title="See">Day 25 - Video mask in text. ✅  </a> <br>
-- Day 26 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771889016909434880/" title="See">Day 26 - League of legends quote cards. ✅  </a> <br>
 - Day 27 - (coming) ⌚
 - Day 28 - (coming) ⌚
 - Day 29 - (coming) ⌚
