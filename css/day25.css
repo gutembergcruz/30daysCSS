@@ -1,0 +1,53 @@
+.box{padding: 0 !important;} 
+
+.banner {
+	 position: relative;
+	 width: 100%;
+	 height: 100vh;
+	 overflow: hidden; background-color: black;
+}
+ .banner iframe {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 120%;
+	 object-fit: cover;
+}
+ .banner h3 {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 display: flex;
+	 align-items: center;
+	 justify-content: center;
+font-family: 'Bebas Neue';
+	 width: 100%;
+	 height: 100%;
+	 margin: 0;
+	 font-weight: 400;
+	 font-size: 28vw;
+	 text-align: center;
+	 animation: anim-text-color 16s infinite linear;
+	 text-transform: uppercase;
+	 background-color: #fff;
+	 mix-blend-mode: screen;
+}
+ @keyframes anim-text-color {
+	 0%, 100% {
+		 color: #36b5b0;
+	}
+	 20% {
+		 color: #380e7f;
+	}
+	 40% {
+		 color: #6915cf;
+	}
+	 60% {
+		 color: #d62196;
+	}
+	 80% {
+		 color: #6807f9;
+	}
+}
+ 
