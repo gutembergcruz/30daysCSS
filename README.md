@@ -1,6 +1,6 @@
 # 30 days of CSS / 30 dias de CSS 🚀
 
-30 days of CSS3, is a challenge that aims to help you improve coding skills by doing mini daily projects, using only HTML5 and CSS3. / 
+30 days of CSS3, is a challenge that aims to help you improve coding skills by doing mini daily projects, using only HTML5 and CSS3./
 30 dias de CSS3, é um desafio que visa ajudá-lo a melhorar suas habilidades de codificação fazendo mini projetos diários, usando apenas HTML5 e CSS3.
 
 # Goal / Objetivo 🎯
