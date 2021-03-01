@@ -39,7 +39,7 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771109681374003200/" title="See">Day 24 - Glassmorphism Little Nightmare II. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771631989524086784/" title="See">Day 25 - Video mask in text. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6771889016909434880/" title="See">Day 26 - League of legends quote cards. ✅  </a> <br>
-- Day 27 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6772181503070887937/" title="See">Day 27 - Gris image Mask. ✅  </a> <br>
 - Day 28 - (coming) ⌚
 - Day 29 - (coming) ⌚
 - Day 30 - (coming) ⌚
