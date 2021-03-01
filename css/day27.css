@@ -1,0 +1,22 @@
+.box{padding: 0 !important;}
+section.splash {
+  width: 100%;
+  height: 700px;
+  background: url("https://images6.alphacoders.com/979/thumb-1920-979694.jpg")
+    no-repeat;
+  background-size: 100% 100%;
+  background-position: cover;
+background-attachment: fixed;
+}
+section.splash:before {
+  position: absolute;
+  content: "";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("https://image.freepik.com/free-vector/grunge-ink-splat-background_1048-7468.jpg") no-repeat;
+  background-size: 100%;
+  background-position: center;
+  mix-blend-mode: screen;
+}
