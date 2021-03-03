@@ -1,0 +1,67 @@
+.box {
+    padding: 0 !important;
+}
+
+.cenario {
+    margin: 0;
+    padding: 0;
+    background: url("https://i.redd.it/vunaw4kq3y321.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-position: center bottom;
+    overflow: hidden;
+}
+
+.chuvachuvosa {
+    height: 100vh;
+    background: url("https://pngimg.com/uploads/rain/rain_PNG13468.png");
+    animation: rain .9s linear infinite;
+}
+
+.chuvachuvosa:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    animation: lighting 5s linear infinite;
+    opacity: 0;
+}
+
+@keyframes rain {
+    0% {
+        background-position: 0% 0%;
+    }
+    100% {
+        background-position: -20% 100%;
+    }
+}
+
+@keyframes lighting {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 0;
+    }
+    11% {
+        opacity: 0.5;
+    }
+    13% {
+        opacity: 0;
+    }
+    20% {
+        opacity: 0;
+    }
+    21% {
+        opacity: 0.5;
+    }
+    23% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
