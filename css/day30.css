@@ -1,0 +1,49 @@
+.box{padding: 0 !important;} 
+.phone-container {
+   position: relative;
+   display: flex;
+   height: 100%;
+   justify-content: center;
+   align-items: center;
+width: 100%;
+ }
+.phone-container .phone{
+ }
+ .phone-container .phone:hover~.wrapper:nth-child(2) {
+   opacity: 0.2;
+ }
+
+ .phone-container .phone:hover~.wrapper:nth-child(3) {
+   opacity: 0.2;
+   transform: translate(-2%, -2%);
+   transition-delay: 0.2s;
+ }
+
+ .phone-container .phone:hover~.wrapper:nth-child(4) {
+   opacity: 0.4;
+   transform: translate(-6%, -6%);
+   transition-delay: 0.15s;
+ }
+
+ .phone-container .phone:hover~.wrapper:nth-child(5) {
+   opacity: 0.6;
+   transform: translate(-10%, -10%);
+   transition-delay: 0.15s;
+ }
+
+ .phone-container .phone:hover~.wrapper:nth-child(6) {
+   opacity: 0.8;
+   transform: translate(-15%, -15%);
+   transition-delay: 0.1s;
+ }
+
+ .phone-container .phone:hover~.wrapper:nth-child(7) {
+   opacity: 1;
+   transform: translate(-20%, -20%);
+ }
+
+ .phone-container .wrapper {
+   position: absolute;
+   transition: 0.5s;
+   pointer-events: none;
+ }
