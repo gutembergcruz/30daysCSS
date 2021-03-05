@@ -42,4 +42,5 @@ Improve my CSS skills into practice and by making these goals public I can furth
 <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:6772181503070887937/" title="See">Day 27 - Gris image Mask. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6772511210312134656/" title="See">Day 28 - Fade text effect. ✅  </a> <br>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6772898194754965504/" title="See">Day 29 - Rain and lighting effect. ✅  </a> <br>
-- Day 30 - (coming) ⌚
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6773424610085015552/" title="See">Day 30 - Layerd phone mockup. ✅  </a> <br>
+
