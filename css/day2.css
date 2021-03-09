@@ -1,2 +1,13 @@
-.box-img{background-image: url(../img/day-2.jpg); background-size: 100%; width: 500px; height: 300px; background-position: center center; transition: 0.5s; filter: blur(7px);}
-.box-img:hover{filter: blur(0px);}
+.box-img {
+  background-image: url(../img/day-2.jpg);
+  background-size: 100%;
+  width: 500px;
+  height: 300px;
+  background-position: center center;
+  transition: 0.5s;
+  filter: blur(7px);
+}
+
+.box-img:hover {
+  filter: blur(0px);
+}
